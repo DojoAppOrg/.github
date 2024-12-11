@@ -7,7 +7,7 @@ Welcome to **DojoAppOrg**, the home of DojoApp, a mobile-first solution built to
 ## 📂 **Repository Overview**
 
 ### **1. DojoApp - Frontend Repository**
-🌐 **GitHub:** [DojoApp Repository](https://github.com/DojoAppOrg/DojoApp)  
+🌐 **GitHub:** [DojoApp Repository](https://github.com/CpartIL/dojoapp)  
 The DojoApp frontend is a cross-platform mobile application built with **React Native**, **Expo**, and **Redux** for state management. It's designed to provide a seamless and efficient user experience.
 
 ### **2. dojoadmin - Backend Repository**
@@ -141,7 +141,7 @@ For access to:
 
 | **Platform**   | **Purpose**            | **Link**                                 |
 |----------------|------------------------|-----------------------------------------|
-| GitHub (Frontend) | Frontend Repository   | [DojoApp Repo](https://github.com/DojoAppOrg/DojoApp) |
+| GitHub (Frontend) | Frontend Repository   | [DojoApp Repo](https://github.com/CpartIL/dojoapp) |
 | GitHub (Backend)  | Backend Repository    | [dojoadmin Repo](https://github.com/DojoAppOrg/dojoadmin) |
 | Taiga          | Task Management        | [Taiga Board](https://tree.taiga.io/project/avicpart-dojoapp/timeline) |
 | Miro (Product) | Product Planning       | [Product Board](https://miro.com/app/board/uXjVLeqfu4Y=/) |
